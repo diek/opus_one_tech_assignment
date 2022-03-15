@@ -20,7 +20,7 @@ Upon completion, please email your code back to us as an attachment. A discussio
 
 -   Some of the input data doesn’t include power factor. In those cases, please assume a power factor of 0.9  
 
-![triangle](https://github.com/diek/opus_one_tech_assignment/blob/main/triange.png)
+![triangle](../assets/triangle.png)
 
 ### Requirements
 - Step 1: Read in the file "data1.json" and clean it so that we semantically understand and have known quantities for voltage, current, and power factor  
