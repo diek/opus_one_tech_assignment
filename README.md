@@ -18,14 +18,18 @@ As per the requirements the program expects the file to be included as an arg co
 
 With a venv:  
 ```sh
-python power-calc.py "data/data1.json"  
+python power_calc.py "data/data1.json"  
 ```  
 
 Without a venv
 ```sh
-python3 power-calc.py "data/data1.json"
+python3 power_calc.py "data/data1.json"
 ```
 
+### Run Tests
+```sh
+python3 -m pytest
+```
 
 ## Software Developer Technical Test Details
 
