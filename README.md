@@ -9,8 +9,8 @@ If you wish to run the tests please set up a venv and install pytest.
 ```sh
 python3 -m venv _env  
 source _env/bin/activate  
-python3 -m pip install --upgrade pip  
-python3 -m pip install pytest
+python -m pip install --upgrade pip  
+python -m pip install pytest
 
 ```
 ### Run Code  
